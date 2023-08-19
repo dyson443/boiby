@@ -2,6 +2,7 @@ h1, h2, p, a {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(255, 255, 255);
     line-height: 1.5;
+    text-align: center;
 }
 
 h1 {
