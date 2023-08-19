@@ -46,10 +46,10 @@ header {
 
 .center {
     display: block;
-    margin-left: 20%;
-    margin-right: 20%;
-    max-width: 1024px;
-    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 2048px;
+    width: 50%;
 }
 
 ul {
