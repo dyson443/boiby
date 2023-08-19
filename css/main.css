@@ -48,7 +48,8 @@ header {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    max-width: 2048px;
+    margin-bottom: 0.25rem;
+    margin-top: 0.25rem
     width: 50%;
 }
 
