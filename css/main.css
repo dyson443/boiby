@@ -12,6 +12,11 @@ h1 {
     margin-bottom: 1.25rem;
 }
 
+.images {
+    max-width: 100%;
+    margin: 0;
+}
+
 html {
     background-color: rgb(38, 38, 38);
 }
